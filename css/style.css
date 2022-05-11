@@ -1,1 +1,16 @@
 body { font-family: 'Special Elite', cursive; }
+.citazioni { font-family: 'Special Elite', cursive; }
+.aristotele { font-family: 'Roboto', sans-serif; }
+.corpo { font-family: 'Roboto', sans-serif; }
+.facebook { color: blue; font-size: 30px; }
+.youtube { color: red; font-size: 30px; }
+.bandcamp { color: skyblue; font-size: 30px; }
+.carousel-item {
+  height: 600px;
+}
+
+.carousel-item img {
+    max-height: 600px;
+}
+
+.carousel { background-color: black; }
