@@ -5,6 +5,7 @@ body { font-family: 'Special Elite', cursive; }
 .facebook { color: blue; font-size: 30px; }
 .youtube { color: red; font-size: 30px; }
 .bandcamp { color: skyblue; font-size: 30px; }
+.spotify { color: green; font-size: 30px; }
 .carousel-item {
   height: 600px;
 }
