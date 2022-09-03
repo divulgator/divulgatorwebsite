@@ -6,6 +6,7 @@ body { font-family: 'Special Elite', cursive; }
 .youtube { color: red; font-size: 30px; }
 .bandcamp { color: skyblue; font-size: 30px; }
 .spotify { color: green; font-size: 30px; }
+.instagram { color: hotpink; font-size: 30px; }
 .carousel-item {
   height: 600px;
 }
